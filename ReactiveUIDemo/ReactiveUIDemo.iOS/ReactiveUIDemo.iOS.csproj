@@ -139,7 +139,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\ReactiveUIDemo\ReactiveUIDemo.csproj">
-      <Project>{F5534636-F3BA-43CC-B276-DAD365A7EC72}</Project>
+      <Project>{C3060E03-DF8C-4422-8EA2-B80BF41DF56A}</Project>
       <Name>ReactiveUIDemo</Name>
     </ProjectReference>
   </ItemGroup>
